@@ -1,0 +1,34 @@
+{
+  "name": "android-badge-count-onesignal",
+  "version": "1.0.0",
+  "description": "Habilitar contador de badges quando receber notificações push do OneSignal - By Kaique Cruz",
+  "cordova": {
+    "id": "android-badge-count-onesignal",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaiquecruz/android-badge-count-onesignal.git"
+  },
+  "keywords": [
+    "onesignal",
+    "push",
+    "badge",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/kaiquecruz/android-badge-count-onesignal/issues"
+  },
+  "homepage": "https://github.com/kaiquecruz/android-badge-count-onesignal/"
+}
